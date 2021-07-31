@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: #7C83FD;
+}
+
+#title{
+  font-family: "Arvo", cursive;
+  font-size: 60px;
+  color: white;
+  text-shadow: 3px 0 #DA0463;
+  width: 70%;
+  margin: auto;
+  padding: 30px 0;
+}
+
+#footer{
+  padding: 5%;
+  font-family: "Arvo", cursive;
+  font-size: 30px;
+}
+
+.title-image{
+  width: 12%;
+  height: 12%;
+  padding: 20px 0 0 0;
+}
+
+.genshin{
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 30px;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
